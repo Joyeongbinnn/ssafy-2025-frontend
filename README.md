@@ -1,1 +1,0 @@
-# ssafy-2025-frontend
